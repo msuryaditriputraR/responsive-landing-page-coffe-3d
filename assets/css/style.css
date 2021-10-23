@@ -23,7 +23,7 @@
 @media screen and (min-width: 768px) {
     :root {
         --big-font-size: 5rem;
-        --normal-font-size: 1rem;
+        --normal-font-size: 1.275rem;
     }
 }
 
@@ -124,6 +124,7 @@ img {
     font-size: 1.5rem;
     cursor: pointer;
 }
+
 
 /* === SHOW MENU === */
 .show {
